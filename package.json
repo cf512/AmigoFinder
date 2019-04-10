@@ -4,7 +4,7 @@
   "description": "UTAUS201902FSF3-FT/01-class-content/13-express/02-Homework/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"    
   },
   "repository": {
     "type": "git",
