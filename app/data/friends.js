@@ -1,6 +1,6 @@
 // friends array
 // =============================================================
-var friends = 
+var friendArray = 
 [
     {
         "name": "Sir Arthur Conan Doyle",
@@ -37,4 +37,4 @@ var friends =
 ]
 
 
-module.exports=friends;
+module.exports=friendArray;

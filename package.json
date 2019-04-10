@@ -4,7 +4,7 @@
   "description": "UTAUS201902FSF3-FT/01-class-content/13-express/02-Homework/",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"    
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
